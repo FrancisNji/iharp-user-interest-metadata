@@ -1,4 +1,4 @@
-max_lat,min_lat,max_lon,min_lon,start_year,end_year,time_resolution
+max_lat,min_lat,max_lon,min_lon,start_year,end_year,resolution
 90,30,-120,-180,2011,2020,day
 90,30,-120,-180,2001,2010,month
 90,30,-60,-120,2011,2020,day
